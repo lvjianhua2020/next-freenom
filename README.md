@@ -11,6 +11,8 @@ Documentation: [English version](https://github.com/luolongfei/next-freenom/blob
 
 [📃  前言](#--前言)
 
+[📃  前言](#--前言)
+
 [🍭  效果](#--效果)
 
 [🎁  事前准备](#--事前准备)
